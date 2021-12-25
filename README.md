@@ -1,0 +1,2 @@
+# FPL_ML
+Hi! This is a repository for my passion project using machine learning to optimize my fantasy soccer (specifically Fantasy Premier League) team selections. I've been playing fantasy soccer for years and have always wondered what statistical measures of player performance are the most important in determining key player performance results such as goals, assists, and clean sheets, and what better way to do that than to build machine learning models!
