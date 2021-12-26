@@ -4,4 +4,5 @@ Hi! This is a repository for my passion project using machine learning to optimi
 Directory Guide:
 
 - Data: Data scraping/wrangling/transformation scripts with the accompanying excel sheets
+  - Used a combination of website API requests pulling JSON data and http browser web scraping tools
 - Season_Data: Various ML architectures I've been working on using official Fantasy Premier League data for whole season player data
