@@ -1,0 +1,1 @@
+This directory contains data by match, as opposed to by player
