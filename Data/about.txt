@@ -1,1 +1,2 @@
 This is where the data I've scraped is stored. Public directory since it's not too hard to get this data
+Files in this directory are data by player
