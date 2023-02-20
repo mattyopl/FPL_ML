@@ -1,0 +1,4 @@
+So go to Data > Fixture Data. Here you should see folders by season of each team's stats. If you go to By Season folder, you'll find sheets of merged data of all teams
+by season (so 2015-16.xlsx is just all the sheets in 2015-16 folder merged). I want you to write a python script to create 2021-22.xlsx using the data in the 2021-22 folder.
+Next, add the data in 2021-22.xlsx to the end of complete.xlsx. To do this I'd recommend using packages openpyxl and pandas, but you can do whatever you want provided it 
+gives me the sheets in the correct format with all the required data.
