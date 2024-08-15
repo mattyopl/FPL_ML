@@ -4,7 +4,7 @@ import pandas as pd
 
 # initializing variables and data structures
 
-teamDict = {1: "Arsenal", 2: "Aston_Villa", 3: "Bournemouth", 4: "Brentford", 5: "Brighton", 6: "Chelsea", 7: "Crystal_Palace", 8: "Everton", 9: "Fulham", 10: "Leeds",
+teamDict = {1: "Arsenal", 2: "Aston_Villa", 3: "Bournemouth", 4: "Brentford", 5: "Brighton", 6: "Chelsea", 7: "Crystal_Palace", 8: "Everton", 9: "Fulham", 10: "Ipswich Town",
             11: "Leicester", 12: "Liverpool", 13: "Manchester City", 14: "Manchester United", 15: "Newcastle United", 16: "Nottingham_Forest", 17: "Southampton", 
             18: "Tottenham", 19: "West_Ham", 20: "Wolverhampton_Wanderers"}
 positionDict = {1: "GKP", 2: "DEF", 3: "MID", 4: "FWD"}
@@ -78,4 +78,4 @@ for player in general_data["elements"]:
     print(GameName)
 
 # yay we have everything
-df.to_excel("FPL_Player_Data_Season.xlsx")
+df.to_excel("FPL_Player_Data_SeasonUntil2024.xlsx")
